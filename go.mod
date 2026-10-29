@@ -1,9 +1,9 @@
 module github.com/illumitacit/httpzaplog
 
-go 1.18
+go 1.24
 
 require (
-	github.com/go-chi/chi/v5 v5.0.7
+	github.com/go-chi/chi/v5 v5.4.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 )
